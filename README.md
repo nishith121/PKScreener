@@ -1,31 +1,31 @@
 ![Title](https://raw.githubusercontent.com/pkjmesra/PKScreener/main/screenshots/logos/Logo8.png)
 
 # PKScreener
-| [![MADE-IN-INDIA][MADE-IN-INDIA-badge]][MADE-IN-INDIA] | [![GitHub release (latest by date)][GitHub release (latest by date)-badge]][GitHub release (latest by date)] | [![Downloads][Downloads-badge]][Downloads] | ![latest download][Latest-Downloads-badge]  | [![Docker Pulls][Docker Pulls-badge]][Docker Status] |
-| :-------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| Platforms | [![Windows][Windows-badge]][Windows] | [![Linux][Linux-badge]][Linux] | [![Mac OS][Mac OS-badge]][Mac OS] | [![Docker Status][Docker Status-badge]][Docker Status] |
-| Package / Docs | [![Documentation][Documentation-badge]][Documentation] | [![PyPI][pypi-badge]][pypi] | [![is wheel][wheel-badge]][pypi] | ![github license][github-license] |
-| Tests | [![CodeFactor][Codefactor-badge]][Codefactor] | [![Coverage Status][Coverage-Status-badge]][Coverage-Status] | [![codecov][codecov-badge]][codecov] | [![After Market][After Market-badge]][After Market] |
+| [![MADE-IN-INDIA][MADE-IN-INDIA-badge]][MADE-IN-INDIA] | [![GitHub release (latest by date)][GitHub release (latest by date)-badge]][GitHub release (latest by date)] |          [![Downloads][Downloads-badge]][Downloads]          | ![latest download][Latest-Downloads-badge] |  [![Docker Pulls][Docker Pulls-badge]][Docker Status]  |
+| :----------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------: | :----------------------------------------------------: |
+|                       Platforms                        |                                     [![Windows][Windows-badge]][Windows]                                     |                [![Linux][Linux-badge]][Linux]                |     [![Mac OS][Mac OS-badge]][Mac OS]      | [![Docker Status][Docker Status-badge]][Docker Status] |
+|                     Package / Docs                     |                            [![Documentation][Documentation-badge]][Documentation]                            |                 [![PyPI][pypi-badge]][pypi]                  |      [![is wheel][wheel-badge]][pypi]      |           ![github license][github-license]            |
+|                         Tests                          |                                [![CodeFactor][Codefactor-badge]][Codefactor]                                 | [![Coverage Status][Coverage-Status-badge]][Coverage-Status] |    [![codecov][codecov-badge]][codecov]    |  [![After Market][After Market-badge]][After Market]   |
 
 ## What is PKScreener?
-| Telegram Alerts | Nifty AI Prediction | Scheduling Cron Jobs | On-Demand Telegram Bot | Backtesting / Growth of 10k|
-| :-------------: | :-----------------: | :------------------: | :--------------------: | :-----------: |
-| Nifty screening | Volume scanners | Breakout detection | Consolidating stocks | Reversal Signals |
-| Chart Patterns | CCI scanners | 2% scanners | Short-term bulls | NR4 / NR7 | Daily Releases |
-| Fair Value | Mutual funds, FII data | TTM Squeeze | Golden Crossover | Death Crossover|
-| RSI screening | MACD scanners | IPO Stocks | Momentum Gainers | Watchlist screening |
-| Stock Performance | 52Wk-H/L Breakouts | 10 days low breakouts | Aroon Crossover | Next Day Bullish Stocks|
-| Today's Breakouts | Breaking out now | Popular stocks by Mutual Funds / FIIs | Higher Highs | Lower Lows|
-| F&O Stocks screening | Live 5-EMA Index Scan | Logging | Telegram Channel | Early Breakouts |
-| ATR Cross | ATR Trailing Stops | Intraday Bid/Ask Build-up | Quick Backtest | Morning vs Day-close profit analysis |
-| Multiple period/duration support | Daily OHLCV | Intraday OHLCV | Auomated Software Updates| NASDAQ Index Support |
-| Nifty 50 | Nifty Next 50 | Nifty 100 | Nifty 200| Nifty 500 |
-| Nifty Smallcap 50 | Nifty Smallcap 250 | Nifty Midcap 50 | Nifty Midcap 100| Nifty Midcap 150 |
-| Nifty All 2000 | Nifty Newly Listed (IPOs in last 2 Year) | Nifty F&O Stocks | View Stock Performance| High Momentum(RSI,MFI,CCI) |
-| Intraday Monitor | Scanner pinning | Stock list Pinning | VCP (Volatility Contraction Pattern)| VCP  (Mark Minervini) |
-| Moving Average Signals | Candle-stick Patterns | Trendline Support Stocks | Bullish/Bearish Inside Bar | Volume Spread Analysis |
-| Narrow Range (NRx) Reversal | Lorentzian Classifier | PSAR and RSI reversal | Rising RSI | RSI MA Reversal |
-| Upcoming CA stocks | High Dividend Stocks | Fair Value Buy Opportunities | Shareholding by number of Mutual Funds/FIIs | Bullish for next day |
+|         Telegram Alerts          |           Nifty AI Prediction            |         Scheduling Cron Jobs          |           On-Demand Telegram Bot            |     Backtesting / Growth of 10k      |                |
+| :------------------------------: | :--------------------------------------: | :-----------------------------------: | :-----------------------------------------: | :----------------------------------: | -------------- |
+|         Nifty screening          |             Volume scanners              |          Breakout detection           |            Consolidating stocks             |           Reversal Signals           |                |
+|          Chart Patterns          |               CCI scanners               |              2% scanners              |              Short-term bulls               |              NR4 / NR7               | Daily Releases |
+|            Fair Value            |          Mutual funds, FII data          |              TTM Squeeze              |              Golden Crossover               |           Death Crossover            |                |
+|          RSI screening           |              MACD scanners               |              IPO Stocks               |              Momentum Gainers               |         Watchlist screening          |                |
+|        Stock Performance         |            52Wk-H/L Breakouts            |         10 days low breakouts         |               Aroon Crossover               |       Next Day Bullish Stocks        |                |
+|        Today's Breakouts         |             Breaking out now             | Popular stocks by Mutual Funds / FIIs |                Higher Highs                 |              Lower Lows              |                |
+|       F&O Stocks screening       |          Live 5-EMA Index Scan           |                Logging                |              Telegram Channel               |           Early Breakouts            |                |
+|            ATR Cross             |            ATR Trailing Stops            |       Intraday Bid/Ask Build-up       |               Quick Backtest                | Morning vs Day-close profit analysis |                |
+| Multiple period/duration support |               Daily OHLCV                |            Intraday OHLCV             |          Auomated Software Updates          |         NASDAQ Index Support         |                |
+|             Nifty 50             |              Nifty Next 50               |               Nifty 100               |                  Nifty 200                  |              Nifty 500               |                |
+|        Nifty Smallcap 50         |            Nifty Smallcap 250            |            Nifty Midcap 50            |              Nifty Midcap 100               |           Nifty Midcap 150           |                |
+|          Nifty All 2000          | Nifty Newly Listed (IPOs in last 2 Year) |           Nifty F&O Stocks            |           View Stock Performance            |      High Momentum(RSI,MFI,CCI)      |                |
+|         Intraday Monitor         |             Scanner pinning              |          Stock list Pinning           |    VCP (Volatility Contraction Pattern)     |        VCP  (Mark Minervini)         |                |
+|      Moving Average Signals      |          Candle-stick Patterns           |       Trendline Support Stocks        |         Bullish/Bearish Inside Bar          |        Volume Spread Analysis        |                |
+|   Narrow Range (NRx) Reversal    |          Lorentzian Classifier           |         PSAR and RSI reversal         |                 Rising RSI                  |           RSI MA Reversal            |                |
+|        Upcoming CA stocks        |           High Dividend Stocks           |     Fair Value Buy Opportunities      | Shareholding by number of Mutual Funds/FIIs |         Bullish for next day         |                |
 
 ### A Python-based stock screener for NSE, India.
 
@@ -99,7 +99,7 @@ Multiple Indices to choose from:
 
 ```
 
-Followin scanners are already implemented. 
+Followin scanners are already implemented.
 ```
      0 > Full Screening (Shows Technical Parameters without any criterion)
      1 > Probable Breakouts/Breakdowns   	2 > Today's Breakouts/Breakdowns
@@ -118,7 +118,7 @@ Followin scanners are already implemented.
     27 > ATR Cross                      	28 > Bullish Higher Opens           
     29 > Intraday Bid/Ask Build-up      	30 > ATR Trailing Stops(Swing Paper Trading)
     31 > High Momentum(RSI,MFI,CCI)     
-           	
+
 ```
 ## Running Piped Scanners
 
@@ -146,14 +146,14 @@ Multiple pre-defined piped scanners
 * Download and install docker desktop: https://docs.docker.com/get-docker/
 * After installation, launch/run docker desktop and if it asks, login using your docker credentials.
 * Launch any command line (for example, cmd on windows or terminal on Mac) and type `docker pull pkjmesra/pkscreener:latest`. Then type `docker run -it pkjmesra/pkscreener:latest`.  
-The option `-i` will open the `pkscreener` in interactive mode within docker. `-t` will allocate a pseudo terminal for you so you can begin to use `pkscreener`
+  The option `-i` will open the `pkscreener` in interactive mode within docker. `-t` will allocate a pseudo terminal for you so you can begin to use `pkscreener`
 
 # Special notes on vulnerabilities shown in the docker image/container
 Please keep in mind that only because the container/image shows a vulnerability, it does not mean that it exists in this particular image.
 1. If you see a critical vulnerability being shown for git, it's ONLY IF we use git with v2.13 or below AND we use git submodule. In case of PKScreener, both are false. We use git >= 2.45 and we DO NOT use git submodules. See https://nvd.nist.gov/vuln/detail/CVE-2024-32002
 2. If you see high severity vulnerability for pip, it's ONLY IF we use a private indexed repository. In our case, we only use PyPi - a public python library repository. See https://nvd.nist.gov/vuln/detail/CVE-2018-20225.
 
-The story is similar for other low severity vulnerabilities that docker might show. If you're genuinely concerned, you can search with the respective CVE # in the NIST database to understand more or create an issue https://github.com/pkjmesra/PKScreener/issues 
+The story is similar for other low severity vulnerabilities that docker might show. If you're genuinely concerned, you can search with the respective CVE # in the NIST database to understand more or create an issue https://github.com/pkjmesra/PKScreener/issues
 
 # Installing the latest version from PyPi.
 * Go ahead and install using `pip install pkscreener`. The releases page also has the latest wheels for multiple platforms.
@@ -162,7 +162,7 @@ The story is similar for other low severity vulnerabilities that docker might sh
 
 For example:
 
-For `Windows`: See https://github.com/pkjmesra/PKScreener/blob/c1e94ba3137915cb781161fa2d5fb69129940fd3/.github/workflows/w1-workflow-build-matrix.yml#L91-L101 
+For `Windows`: See https://github.com/pkjmesra/PKScreener/blob/c1e94ba3137915cb781161fa2d5fb69129940fd3/.github/workflows/w1-workflow-build-matrix.yml#L91-L101
 
 For `Mac`: Run `brew install ta-lib` assuming you have homebrew installed.
 
